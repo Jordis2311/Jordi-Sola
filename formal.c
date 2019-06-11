@@ -64,7 +64,7 @@ int main(){
         puts("Error opening file.");
         return -1;
     }
-
+AAA
     Lista l = leer_lista(f);
     imprimir_lista(l);
 
